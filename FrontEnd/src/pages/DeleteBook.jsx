@@ -1,5 +1,4 @@
 import { useState } from "react";
-import React from "react";
 import BackArrow from "../components/BackButton.jsx";
 import Spinner from "../components/Spinner.jsx";
 import axios from "axios";

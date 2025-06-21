@@ -1,4 +1,6 @@
-import React, { useState } from "react"; // Import useState
+/* eslint-disable react/prop-types */
+
+import { useState } from "react"; // Import useState
 import { PiBookOpenTextLight } from "react-icons/pi";
 import { BiUserCircle, BiShow } from "react-icons/bi";
 import { AiOutlineEdit } from "react-icons/ai";

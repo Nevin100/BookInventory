@@ -1,4 +1,5 @@
-import React, { useEffect, useState } from "react";
+/* eslint-disable react-hooks/exhaustive-deps */
+import { useEffect, useState } from "react";
 import BackArrow from "../components/BackButton.jsx";
 import { useNavigate, useParams } from "react-router-dom";
 import Spinner from "../components/Spinner.jsx";

@@ -30,7 +30,6 @@ const CreateBooks = () => {
       .catch((error) => {
         setloading(false);
         enqueueSnackbar("Error Occured", { variant: "error" });
-        // alert("Something Went wrong!!..Check Console!!");
         console.log(error);
       });
   };
