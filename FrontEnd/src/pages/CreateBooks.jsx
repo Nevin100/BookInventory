@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import BackArrow from "../components/BackButton.jsx";
 import { useNavigate } from "react-router-dom";
 import Spinner from "../components/Spinner.jsx";
